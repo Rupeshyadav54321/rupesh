@@ -1,0 +1,17 @@
+body{
+    background-image: url(./all_jpg/natural_jpg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box{
+    width: 64px;
+    height: 40px;
+    margin: 50px auto;
+    color: pink;
+    overflow: auto;
+    background-color: rgba(red, green, blue, alpha);
+    border: 40px solid ;
+    padding: 40px;
+    background-attachment:scroll;
+}
